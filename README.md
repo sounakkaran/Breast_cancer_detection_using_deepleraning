@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breast Cancer Detection Project README</title>
 </head>
 <body>
     <h1>Breast Cancer Detection Using Deep Learning</h1>
@@ -32,6 +33,9 @@
         <li><strong>Model Development:</strong> Use DenseNet201 architecture and fine-tune with custom layers for the detection task.</li>
         <li><strong>Training and Validation:</strong> Train the model with data augmentation and implement callbacks for optimal performance.</li>
     </ol>
+    <h2>Dataset</h2>
+    <p>The dataset used for this project can be downloaded from the following link:</p>
+    <p><a href="https://drive.google.com/file/d/12umDKmXJ8--ZmuiTrchSQRCs8SmRl12h/view" target="_blank">Mammography Images Dataset</a></p>
     <h2>How to Use</h2>
     <p>To run this project, follow these steps:</p>
     <ol>
@@ -42,6 +46,6 @@
         <li>Use the trained model to make predictions on new mammography images.</li>
     </ol>
     <h2>Contact</h2>
-    <p>For any questions or inquiries, please contact the project team at <a href="mailto:karansounak@gmail.com.com">support@example.com</a>.</p>
+    <p>For any questions or inquiries, please contact the project team at <a href="mailto:support@example.com">support@example.com</a>.</p>
 </body>
 </html>
