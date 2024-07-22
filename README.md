@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Breast Cancer Detection Project README</title>
+    
 </head>
 <body>
     <h1>Breast Cancer Detection Using Deep Learning</h1>
